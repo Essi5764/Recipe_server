@@ -17,8 +17,8 @@ app.use('/posts', postRoutes);
 app.use('/user', userRoutes);
 
 app.get('/',(req, res) => {
-  res.send('Welcome to Recipe API')
-})
+  res.send('Welcome to Recipe API');
+});
 
 
 const PORT = process.env.PORT|| 5000;
