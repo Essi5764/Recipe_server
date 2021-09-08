@@ -1,6 +1,6 @@
 # C.R.U.D RECIPE App
 
-This Full Stack MERN Social Media App project to allow users to share recipes using React, Node JS, Express & MongoDB. Users can create, read, update and delete their post. 
+This is a Full Stack MERN Social Media App project to allow users to share recipes using React, Node JS, Express & MongoDB. Users can create, read, update and delete their post. 
 
 The following repo is dedicated to the server, this will allow me to deploy easily. 
 
